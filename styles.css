@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+#dogImage img {
+    max-height: 400px;
+    margin-top: 20px;
+    object-fit:cover;
+}
+
+#newDogBtn {
+    margin-top: 20px;
+}
+
+
+
+
